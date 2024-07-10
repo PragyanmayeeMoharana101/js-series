@@ -1,0 +1,10 @@
+physics=88;
+chemistry=90;
+maths=93;
+total_marks= physics+chemistry+maths;
+percentage= total_marks/300*100;
+console.log("mark secured in phy:",physics);
+console.log("mark secured in chem:",chemistry);
+console.log("mark secured in maths:",maths);
+console.log("total marks out of 300:",total_marks);
+console.log("percentage:",percentage);
