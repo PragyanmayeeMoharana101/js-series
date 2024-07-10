@@ -1,0 +1,11 @@
+a=9;
+b=2;
+console.log("sum is:",a+b);
+console.log("diffrence is:",a-b);
+console.log("product is:",a*b);
+console.log("division is:",a/b);
+console.log("modulus is:",a%b);
+console.log(a++);
+console.log(a);
+console.log(a--);
+console.log(a);
