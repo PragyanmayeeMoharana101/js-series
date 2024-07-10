@@ -1,0 +1,12 @@
+n=1234;
+a=n%10;
+b=parseInt(n/10);
+c=b%10;
+x=parseInt(b/10);
+d=x%10;
+e=parseInt(x/10);
+s=e+c;
+m=a*d;
+console.log("4 digit number=",n);
+console.log("sum of 1st and 3rd digit=",s);
+console.log("multiplication of 2nd and 4th digit=",m);
